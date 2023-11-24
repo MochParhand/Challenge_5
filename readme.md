@@ -11,12 +11,12 @@ port: 5433 Untuk knexfile.ts
 
 # Postman
 - Get cars
-![get cars](/Users/muhamadparhan/Documents/new-folder/challenge_5/storages/Screenshot 2023-11-24 at 17.43.22.png)
+![get cars](https://github.com/MochParhand/Challenge_5/blob/main/storages/Screenshot%202023-11-24%20at%2017.43.22.pngg)
 - Get cars by id
-![get cars by id](/Users/muhamadparhan/Documents/new-folder/challenge_5/storages/Screenshot 2023-11-24 at 17.49.40.png)
+![get cars by id](https://github.com/MochParhand/Challenge_5/blob/main/storages/Screenshot%202023-11-24%20at%2017.49.40.png)
 - Create car
-![create car](/Users/muhamadparhan/Documents/new-folder/challenge_5/storages/Screenshot 2023-11-24 at 17.43.10.png)
+![create car](https://github.com/MochParhand/Challenge_5/blob/main/storages/Screenshot%202023-11-24%20at%2017.43.10.png)
 - Delete car by id
-![delete car](/Users/muhamadparhan/Documents/new-folder/challenge_5/storages/Screenshot 2023-11-24 at 17.53.07.png)
+![delete car](https://github.com/MochParhand/Challenge_5/blob/main/storages/Screenshot%202023-11-24%20at%2017.53.07.png)
 - Update car by id
-![update car](/Users/muhamadparhan/Documents/new-folder/challenge_5/storages/Screenshot 2023-11-24 at 17.52.45.png)
+![update car](https://github.com/MochParhand/Challenge_5/blob/main/storages/Screenshot%202023-11-24%20at%2017.52.45.png)
